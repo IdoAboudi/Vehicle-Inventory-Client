@@ -1,0 +1,27 @@
+.input-name {
+    font-weight: 300;
+    font-size: 1.1rem;
+    margin: 0.3rem;
+    color: rgb(48, 95, 196);
+}
+
+input[type=text] {
+    padding: 0;
+    height: 30px;
+    position: relative;
+    left: 0;
+    outline: none;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0, 0, 0, .15);
+    background-color: white;
+    font-size: 16px;
+  }
+  
+  .advancedTextbox {
+    width: 250px;
+    margin-right: -18px;
+  }
+
+  .wrapper {
+    margin: 0.5rem;
+  }

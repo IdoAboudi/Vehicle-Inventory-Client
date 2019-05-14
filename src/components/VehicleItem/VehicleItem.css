@@ -1,0 +1,30 @@
+.item-content {
+    position: absolute;
+    top: 30%;
+    transform: translateY(-50%);
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.name {
+    font-weight: 300;
+    font-size: 2rem;
+    margin: 1.5rem;
+}
+
+.car-type {
+    font-weight: 300;
+    font-size: 1.5rem;
+    margin: 1.5rem;
+}
+.time {
+    font-weight: 300;
+    font-size: 1.1rem;
+    margin: 1.5rem;
+}
+
+.btn {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}

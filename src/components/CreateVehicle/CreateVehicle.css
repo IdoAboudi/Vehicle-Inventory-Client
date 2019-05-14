@@ -1,0 +1,15 @@
+.item-content {
+    position: absolute;
+    top: 30%;
+    transform: translateY(-50%);
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.title {
+    font-weight: 300;
+    margin: 0;
+    font-size: 2rem;
+    color:rgb(48, 95, 196);
+}

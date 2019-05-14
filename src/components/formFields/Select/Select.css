@@ -1,0 +1,15 @@
+.wrapper {
+    margin: 0.5rem;
+}
+
+.select-name {
+    font-weight: 300;
+    font-size: 1.1rem;
+    margin: 0.3rem;
+    color: rgb(48, 95, 196);
+}
+
+.advancedSelect {
+    width: 250px;
+    margin-left: -2px;
+}

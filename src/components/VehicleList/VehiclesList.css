@@ -1,0 +1,30 @@
+table { 
+    width: 70%; 
+    border-collapse: collapse;
+    margin-top: 0.3%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  tr:nth-of-type(odd) { 
+    background: #eee; 
+  }
+  th { 
+    background: #333; 
+    color: white; 
+    font-weight: bold; 
+  }
+  td, th { 
+    padding: 6px; 
+    border: 1px solid #ccc; 
+    text-align: left; 
+  }
+
+.page {
+    margin-top: 0.3%;
+}
+
+.create-btn {
+    position: relative;
+    left: 15%;
+}
