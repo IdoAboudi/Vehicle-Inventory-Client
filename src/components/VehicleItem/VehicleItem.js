@@ -44,10 +44,10 @@ class VehicleItem extends React.Component {
     }
 
     render() {
-        var createdDate = new Date(this.state.vehicle.time_created);
-        var date = createdDate.getDate();
-        var month = (createdDate.getMonth() + 1 );
-        var year = createdDate.getFullYear();
+        let createdDate = new Date(this.state.vehicle.time_created);
+        let date = createdDate.getDate();
+        let month = (createdDate.getMonth() + 1 );
+        let year = createdDate.getFullYear();
         
         return (
             <div className="item-content">
